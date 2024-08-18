@@ -1,0 +1,13 @@
+{
+    "addons": {
+      "my-addon-id@domain.com": {
+        "updates": [
+          {
+            "version": "3.0.3",
+            "update_link": "https://example.com/my-addon.xpi"
+          }
+        ]
+      }
+    }
+  }
+  
